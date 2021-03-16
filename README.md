@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @YasienKashef
-- 👀 I’m interested in Web-Applications, ML, Data Management & Analysis
+- 👀 I’m interested in Web-Applications, ML, Data Management & Analysis.
+- - ✨ I'm currently working as Software Engineer at baermedia GmbH in Darmstadt, Germany.
 - 🌱 I’m currently learning Computer Science B.Sc. at TU-Darmstadt, Germany.
 - 📫 How to reach me: yasien.kashef@outlook.com
 
